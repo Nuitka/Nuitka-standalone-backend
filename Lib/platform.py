@@ -1440,6 +1440,7 @@ def freedesktop_os_release():
 
     return _os_release_cache.copy()
 
+__nuitka_patch_level__ = 1
 
 ### Command line interface
 
